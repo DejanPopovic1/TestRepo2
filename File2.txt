@@ -1,1 +1,5 @@
 There was a fox
+
+I have now added this sentence in *after* I ran the command git update-index --skip-worktree File2.txt
+
+More changes...
